@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Inter, Poppins, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  @apply bg-[#F5F5F5] text-slate-900;
+}
+
+.glass {
+  @apply bg-white/80 backdrop-blur-xl border border-slate-200 shadow-glass;
+}

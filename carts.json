@@ -1,0 +1,20 @@
+{
+  "carts": {
+    "1249db82-cc2e-4f0c-ad95-dd7c9c23e7c8": [
+      {
+        "product_id": "Fluorescents, Harsh Yellow",
+        "quantity": 1
+      }
+    ],
+    "dd27deae-54ff-4a56-818e-55f542daae34": [
+      {
+        "product_id": "Fluorescents, Harsh Yellow",
+        "quantity": 1
+      },
+      {
+        "product_id": "Cool Blue, Icy Gray, Jewel Tones",
+        "quantity": 1
+      }
+    ]
+  }
+}

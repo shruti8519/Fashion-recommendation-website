@@ -1,0 +1,25 @@
+# Python
+.ven/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment secrets
+.env
+*.env
+!.env.example
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

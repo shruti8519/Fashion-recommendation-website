@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "95322261-c896-40ad-9eb6-048bfd6002f0",
+      "email": "new@fashion.com",
+      "password_hash": "pbkdf2_sha256$200000$7yAisWc/UXsaHjMvLN9WCA==$WtUfAiRbtLWHBFFZF4MUfUXH5PRezDkzdO1Ad+3ur+I=",
+      "profile": {
+        "preferred_styles": [],
+        "preferred_colors": [],
+        "budget": null
+      },
+      "history": [
+        "Cool Blue, Icy Gray, Jewel Tones"
+      ]
+    },
+    {
+      "id": "1249db82-cc2e-4f0c-ad95-dd7c9c23e7c8",
+      "email": "admin@fashionhub.com",
+      "password_hash": "pbkdf2_sha256$200000$3Bvi72FkH9pacRy927f+Rg==$hE3Bk0l8vW4Wy83OvYh6eAcFnQF6hteMjy52GLmBwds=",
+      "role": "admin",
+      "profile": {
+        "name": "Demo Admin",
+        "preferred_styles": [],
+        "preferred_colors": []
+      },
+      "history": [
+        "Fluorescents, Harsh Yellow"
+      ]
+    },
+    {
+      "id": "dd27deae-54ff-4a56-818e-55f542daae34",
+      "email": "user@fashionhub.com",
+      "password_hash": "pbkdf2_sha256$200000$gKxbEt3DySabkCBCGoU5lw==$ScEqm0G2Z2p2llHztASoBDWtupNWJsrkBsF8H3rDdMc=",
+      "role": "user",
+      "profile": {
+        "name": "Demo User",
+        "preferred_styles": [],
+        "preferred_colors": [],
+        "phone": "4485555215"
+      },
+      "history": [
+        "Fluorescents, Harsh Yellow",
+        "Cool Blue, Icy Gray, Jewel Tones"
+      ]
+    }
+  ]
+}

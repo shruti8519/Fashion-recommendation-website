@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+pandas
+numpy
+python-multipart
+passlib[bcrypt]
+pyjwt
+tensorflow
+pillow
+scikit-learn
+sqlalchemy
+psycopg2-binary
+stripe
+razorpay
